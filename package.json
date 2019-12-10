@@ -1,0 +1,14 @@
+{
+  "name": "electron-secure-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "electron": "^7.1.4"
+  }
+}
